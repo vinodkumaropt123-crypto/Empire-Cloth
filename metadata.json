@@ -1,0 +1,6 @@
+{
+  "name": "Empire Clothing Hub",
+  "description": "Premium clothing store in Dadri, Uttar Pradesh. Best readymade garments, men's, women's & kids wear by Vipin Baisla. Discover the premium fashion destination in Gautam Buddha Nagar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
